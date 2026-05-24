@@ -11,7 +11,7 @@ Welcome to my Summer Coding Assignment repository! This repo contains all my dai
 | **Admission ID** | 25110CN458 |
 | **Name** | Aditya Yadav |
 | **Branch** | CSE Core |
-| **Repository Name** | summer_Assignment_25110CN458 |
+| **Repository Name** | Summer-Assignment-25110CN458 |
 | **Program** | Summer Assignment |
 
 ---
